@@ -1,4 +1,4 @@
-package com.coderscampus.arraylist;
+package main.java.com.coderscampus.arraylist;
 
 public interface CustomList<T> {
 	/**

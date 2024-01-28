@@ -1,4 +1,4 @@
-package com.coderscampus.arraylist;
+package main.java.com.coderscampus.arraylist;
 
 public class CustomArrayList<T> implements CustomList<T> {
 	Object[] items = new Object[10];
